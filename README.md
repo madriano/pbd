@@ -1,2 +1,9 @@
-# pbd
+# Processamento de Big Data
 Repositório de materiais de apoio à UC "Processamento de Big Data" (ISCTE-IUL) 
+
+Para copiar apenas uma directoria (e as respectivas subdirectorias) do repositório, use o comando svn. 
+
+Para a directoria Aulas/Aula_02 (.... whatever):
+
+svn checkout https://github.com/madriano/pbd/trunk/Aulas/Aula_02
+
