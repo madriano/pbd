@@ -32,3 +32,8 @@ svn checkout https://github.com/madriano/pbd/trunk/Aulas/Aula_07
 
 (nota: ficheiro de dados encontra-se na diretoria partilhada)
 
+Para a directoria Aulas/Extra:
+
+svn checkout https://github.com/madriano/pbd/trunk/Aulas/Extra
+
+
