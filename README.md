@@ -3,6 +3,9 @@ Repositório de materiais de apoio à UC "Processamento de Big Data" (Iscte-IUL)
 
 Para copiar apenas uma diretoria (e as respectivas subdiretorias) do repositório, use o comando svn no Terminal. 
 
+Para a diretoria Aulas/Aula_4:
+
+svn checkout https://github.com/madriano/pbd/trunk/Aulas/Aula_4
 
 Para a diretoria Aulas/Aula_3:
 
